@@ -17,7 +17,7 @@
 	},
 	{
 		"region": "Southern District",
-		"Libraries": [{
+		"libraries": [{
 				"name": "Sir Robert Ho Tung Library",
 				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
 				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/hotung",
@@ -33,7 +33,7 @@
 	},
 	{
 		"region": "Western District",
-		"Libraries": [{
+		"libraries": [{
 				"name": "Patane Library",
 				"open_hour": "Monday 14:00 - 24:00, Tuesday to Sunday 08:00 - 24:00",
 				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/Patane-library",
@@ -55,7 +55,7 @@
 	},
 	{
 		"region": "North District",
-		"Libraries": [{
+		"libraries": [{
 				"name": "Ilha Verde Library",
 				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
 				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/ilha-verde",
@@ -89,7 +89,7 @@
 	},
 	{
 		"region": "Taipa",
-		"Libraries": [{
+		"libraries": [{
 				"name": "Taipa Library",
 				"open_hour": "Monday 14:00 - 24:00, Tuesday to Sunday 08:00 - 24:00 ",
 				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/Islands-district/taipa-library",
@@ -105,7 +105,7 @@
 	},
 	{
 		"region": "Coloane",
-		"Libraries": [{
+		"libraries": [{
 			"name": "Coloane Library",
 			"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
 			"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/Islands-district/coloane-library",
