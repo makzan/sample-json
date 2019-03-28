@@ -4,14 +4,18 @@
 		"libraries": [{
 				"name": "Macao Central Library",
 				"open_hour": "Monday 14:00 - 24:00, Tuesday to Sunday 08:00 - 24:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/central-library",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/2836056c3dc8c0e687.jpg"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/central-library",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/2836056c3dc8c0e687.jpg",
+				"lat": 22.198448, 
+				"lng": 113.546800
 			},
 			{
 				"name": "Library in Ho Yin Garden",
 				"open_hour": "Monday 14:00 - 24:00, Tuesday to Sunday 08:00 - 24:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/hoyin",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/7545856c1418debcbc.jpg"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/hoyin",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/7545856c1418debcbc.jpg",
+				"lat": 22.192388, 
+				"lng": 113.549050
 			}
 		]
 	},
@@ -20,14 +24,18 @@
 		"libraries": [{
 				"name": "Sir Robert Ho Tung Library",
 				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/hotung",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/6415956b059dd8d02a.jpg"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/hotung",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/6415956b059dd8d02a.jpg",
+				"lat": 22.192408, 
+				"lng": 113.537689
 			},
 			{
 				"name": "S. Lourenço Library",
 				"open_hour": "Monday 14:00 - 24:00, Tuesday to Sunday 08:00 - 24:00 ",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/hawan",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4640856c3dcacad004.jpg"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/hawan",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4640856c3dcacad004.jpg",
+				"lat": 22.190821, 
+				"lng": 113.534700
 			}
 		]
 	},
@@ -36,20 +44,26 @@
 		"libraries": [{
 				"name": "Patane Library",
 				"open_hour": "Monday 14:00 - 24:00, Tuesday to Sunday 08:00 - 24:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/Patane-library",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-12/6542958462522d7828.jpg"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/Patane-library",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-12/6542958462522d7828.jpg",
+				"lat": 22.201853,
+				"lng": 113.537636
 			},
 			{
 				"name": "Red Market Library",
 				"open_hour": "Monday to Sunday 07:00 - 02:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/redmarket",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4546356c3ddb1866c9.JPG"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/redmarket",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4546356c3ddb1866c9.JPG",
+				"lat": 22.205380, 
+				"lng": 113.544783
 			},
 			{
 				"name": "Wong Ieng Kuan Library in Luís de Camões Garden",
 				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/luis-wik",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4633356c3dbc2953e8.jpg"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/luis-wik",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4633356c3dbc2953e8.jpg",
+				"lat": 22.201329, 
+				"lng": 113.540057
 			}
 		]
 	},
@@ -58,32 +72,42 @@
 		"libraries": [{
 				"name": "Ilha Verde Library",
 				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/ilha-verde",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2017-04/9570658ed9161669e1.JPG"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/ilha-verde",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2017-04/9570658ed9161669e1.JPG",
+				"lat": 22.209569, 
+				"lng": 113.543921
 			},
 			{
 				"name": "Mong Há Library",
 				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/mongha",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/3397556c3dde465f4d.JPG"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/mongha",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/3397556c3dde465f4d.JPG",
+				"lat": 22.206991, 
+				"lng": 113.551994
 			},
 			{
 				"name": "Wong Ieng Kuan Library in Dr. Sun Yat Sen Municipal Park",
 				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/sunyatsen-wik",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2017-02/159485898115839ba7.jpeg"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/sunyatsen-wik",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2017-02/159485898115839ba7.jpeg",
+				"lat": 22.216343, 
+				"lng": 113.546704
 			},
 			{
 				"name": "Wong Ieng Kuan Library in Areia Preta Urban Park",
 				"open_hour": "Monday 14:00 - 24:00, Tuesday to Sunday 08:00 - 24:00 ",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/apup-wik",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2017-02/10751589811060a0e2.jpeg"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/apup-wik",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2017-02/10751589811060a0e2.jpeg",
+				"lat": 22.209338, 
+				"lng": 113.555896
 			},
 			{
 				"name": "Wong Ieng Kuan Children's Library in Areia Preta Urban Park",
 				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/apup-children",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2017-02/986515898102c722c4.jpeg"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/macao/apup-children",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2017-02/986515898102c722c4.jpeg",
+				"lat": 22.209338, 
+				"lng": 113.555896
 			}
 		]
 	},
@@ -92,24 +116,31 @@
 		"libraries": [{
 				"name": "Taipa Library",
 				"open_hour": "Monday 14:00 - 24:00, Tuesday to Sunday 08:00 - 24:00 ",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/Islands-district/taipa-library",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4854956c3dc01aa223.JPG"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/Islands-district/taipa-library",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4854956c3dc01aa223.JPG",
+				"lat": 22.158498, 
+				"lng": 113.555023
 			},
 			{
 				"name": "Wong Ieng Kuan Library in Taipa",
 				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
-				"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/Islands-district/taipa-wik",
-				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/5440256c3dc2ee8844.JPG"
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/Islands-district/taipa-wik",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/5440256c3dc2ee8844.JPG",
+				"lat": 22.153576, 
+				"lng": 113.556245
 			}
 		]
 	},
 	{
 		"region": "Coloane",
 		"libraries": [{
-			"name": "Coloane Library",
-			"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
-			"url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/Islands-district/coloane-library",
-			"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/8419956c3de8b30741.jpg"
-		}]
+				"name": "Coloane Library",
+				"open_hour": "Monday 14:00 - 20:00, Tuesday to Sunday 08:00 - 20:00",
+				"url": "https://www.library.gov.mo/en/branch-libraries/public-library/Islands-district/coloane-library",
+				"photo": "https://www.library.gov.mo/uploads/attachment/2016-02/8419956c3de8b30741.jpg",
+				"lat": 22.116616, 
+				"lng": 113.551052
+			}
+		]
 	}
 ]
