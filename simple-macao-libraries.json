@@ -1,0 +1,104 @@
+[
+  {
+    "name": "澳門中央圖書館",
+    "open_hour": "星期一至日 10:00 – 20:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/central-library",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/2836056c3dc8c0e687.jpg"
+  },
+  {
+    "name": "何賢公園圖書館",
+    "open_hour": "星期二至星期日　8:00 - 20:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/hoyin",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/7545856c1418debcbc.jpg"
+  },
+  {
+    "name": "何東圖書館",
+    "open_hour": "星期一至六 10:00 – 19:00 星期日 11:00 – 19:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/hotung",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/6415956b059dd8d02a.jpg"
+  },
+  {
+    "name": "下環圖書館",
+    "open_hour": "星期二至星期日　8:00 - 20:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/hawan",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4640856c3dcacad004.jpg"
+  },
+  {
+    "name": "沙梨頭圖書館",
+    "open_hour": "星期一 14:00 - 20:30 星期二至星期日 09:30 - 20:30",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/Patane-library",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-12/6542958462522d7828.jpg"
+  },
+  {
+    "name": "紅街市圖書館",
+    "open_hour": "星期一至日 全日開放",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/redmarket",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4546356c3ddb1866c9.JPG"
+  },
+  {
+    "name": "白鴿巢公園黃營均圖書館",
+    "open_hour": "星期二至星期日　8:00 - 20:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/luis-wik",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4633356c3dbc2953e8.jpg"
+  },
+  {
+    "name": "青洲圖書館",
+    "open_hour": "星期一至六 10:00 – 20:00 星期日 12:00 – 20:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/ilha-verde",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2017-04/9570658ed9161669e1.JPG"
+  },
+  {
+    "name": "望廈圖書館",
+    "open_hour": "星期一至日 12:00 – 19:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/mongha",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/3397556c3dde465f4d.JPG"
+  },
+  {
+    "name": "紀念孫中山公園黃營均圖書館",
+    "open_hour": "星期二至星期日　8:00 - 20:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/sunyatsen-wik",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2017-02/159485898115839ba7.jpeg"
+  },
+  {
+    "name": "黑沙環公園黃營均圖書館",
+    "open_hour": "星期二至星期日　8:00 - 20:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/apup-wik",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2017-02/10751589811060a0e2.jpeg"
+  },
+  {
+    "name": "黑沙環公園黃營均兒童圖書館",
+    "open_hour": "星期二至星期日　8:00 - 20:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/macao/apup-children",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2017-02/986515898102c722c4.jpeg"
+  },
+  {
+    "name": "氹仔圖書館",
+    "open_hour": "星期一14:00 - 20:30 星期二至星期日9:30 – 20:30",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/Islands-district/taipa-library",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4854956c3dc01aa223.JPG"
+  },
+  {
+    "name": "氹仔黃營均圖書館",
+    "open_hour": "星期二至星期日　8:00 - 20:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/Islands-district/taipa-wik",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/5440256c3dc2ee8844.JPG"
+  },
+  {
+    "name": "路環圖書館",
+    "open_hour": "星期一至六 13:00 – 19:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/public-library/Islands-district/coloane-library",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/8419956c3de8b30741.jpg"
+  },
+  {
+    "name": "流動圖書館",
+    "open_hour": "星期一、二及五 12:00 - 19:00 星期三 12:30 - 18:30",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/mobile-library/mobile-library",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/4880756c3dd378c79e.JPG"
+  },
+  {
+    "name": "民政總署大樓圖書館",
+    "open_hour": "星期一至六 13:00 – 19:00",
+    "url": "https://www.library.gov.mo/zh-hant/branch-libraries/special-library/iacm-library",
+    "photo": "https://www.library.gov.mo/uploads/attachment/2016-02/2898156c3dc6f6cd10.JPG"
+  }
+]
